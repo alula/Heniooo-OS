@@ -1,0 +1,22 @@
+section.load {
+	width:100%;
+	height:100%;
+	position:fixed;
+	top:0;
+	left:0;
+	background:#000000;
+	color:white;
+	font-family: "Roboto", sans-serif;
+	font-size:30px;
+	padding-top:20%;
+}
+
+section.load .loadLogo {
+	text-align: center;
+	margin:0 auto;
+}
+
+section.load .loadText {
+	text-align:center;
+	padding:10px;
+}
